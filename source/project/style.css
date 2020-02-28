@@ -99,6 +99,12 @@ h2 {
   border-radius: 4px;
   background-color: #288be6;
   color: #ffffff;
+  border-bottom: 4px solid blue;
+}
+
+.back-button:hover {
+  background-color: blue;
+  transition: 1s;
 }
 
 .button {

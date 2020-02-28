@@ -167,6 +167,12 @@ body {
   border-radius: 4px;
   background-color: #288be6;
   color: #ffffff;
+  border-bottom: 4px solid blue;
+}
+
+.button:hover {
+  background-color: blue;
+  transition: 1s;
 }
 
 .page-footer {
