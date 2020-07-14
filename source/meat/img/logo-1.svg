@@ -1,0 +1,180 @@
+<svg width="130" height="96" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="98" width="132" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g id="Layer_1">
+   <path id="svg_1" fill="url(#SVGID_1_)" d="m79.212803,54.957504c-14,4 -26,10 -41,14c-3.04,0.87 -5.51,2.89 -7.5,5.45c23.19,8.76 49.56,0.97 70.5,-10.45c0.34,-0.17 0.69,-0.31 1.05,-0.44c-6.22,-6.34 -15.07,-9.89 -23.05,-8.56z"/>
+   <path id="svg_2" fill="url(#SVGID_3_)" d="m123.212803,23.957504c-0.71,-2.85 -1.93,-5.71 -2.21,-8.92c-16.14,7.74 -40.52,16.68 -34.79,32.92c2.37,5.91 9.98,11.12 18.91,12.94c9.77,-10.34 21.84,-21 18.09,-36.94z"/>
+   <path id="svg_3" fill="#F5F7EA" d="m122.502803,14.307504c-0.67,-1.18 -1.43,-2.28 -2.29,-3.27c-7.81,8.42 -22.6,11.55 -32,16.92c-9,5 -7,19 -17,26c-14,8 -28,12 -43,11c-2,0 -5,0 -8,-1c-4,-1 -7,-4 -9,-7c-2.48,-4.97 -2.74,-10.11 -1.54,-14.93c-2.3,4.21 -3.58,8.74 -3.86,13.3c3.86,11.56 12.22,18.7 22.64,22.55c20.36,7.52 48.64,2.46 66.76,-6.92c3.14,-1.57 6.06,-3.44 8.79,-5.53c-0.55,-0.66 -1.14,-1.29 -1.74,-1.91c-0.36,0.13 -0.71,0.27 -1.05,0.44c-20.94,11.42 -47.31,19.21 -70.5,10.45c1.99,-2.56 4.45,-4.58 7.5,-5.45c15,-4 27,-10 41,-14c8.75,-1.46 18.56,2.94 24.79,10.47c1.62,-1.24 3.15,-2.58 4.62,-3.99c8.18,-7.82 14.11,-18 17.67,-29.15c0.13,-6.84 -1.06,-13.14 -3.79,-17.98zm-17.38,46.59c0.57,0.12 1.14,0.22 1.72,0.31c-0.57,-0.09 -1.15,-0.19 -1.72,-0.31zm0,0c-8.93,-1.82 -16.54,-7.03 -18.91,-12.94c-5.73,-16.24 18.65,-25.18 34.79,-32.92c0.28,3.22 1.5,6.07 2.21,8.92c3.75,15.94 -8.32,26.6 -18.09,36.94z"/>
+   <path id="svg_4" fill="url(#SVGID_4_)" d="m120.212803,11.037504c-2.5,-2.89 -5.81,-4.92 -10.04,-5.73c-15.97,-3.06 -10.87,5.77 -34.65,12.91c-14.86,4.46 -47.79,3.82 -59.97,15.99c-2.41,2.41 -4.37,5.05 -5.88,7.83c-1.2,4.81 -0.94,9.95 1.54,14.92c2,3 5,6 9,7c3,1 6,1 8,1c15,1 29,-3 43,-11c15.5,-5.75 8,-21 17,-26c9.4,-5.37 24.19,-8.5 32,-16.92z"/>
+   <path id="svg_5" fill="url(#SVGID_5_)" d="m95.212803,70.957504c-27.4,14.17 -78,18.52 -89.41,-15.62c-0.47,7.63 1.86,15.36 6.89,21.83c10.02,12.89 23.99,18.97 49.76,15.39c25.78,-3.58 49.4,-14.32 58.35,-35.44c3.37,-7.95 5.34,-16.75 5.49,-24.82c-5.28,16.52 -15.75,30.99 -31.08,38.66z"/>
+   <path id="svg_6" fill="#F5F7EA" d="m98.042803,32.287504c-1.27,3.01 -4.45,6.67 -10,6.67c-5.55,0 -10.17,-3.57 -10.17,-6.83c0,-3.27 5.33,-5 10.89,-5.75c5.51,-0.74 10.62,2.75 9.28,5.91z"/>
+   <ellipse id="svg_7" fill="#FFDECD" ry="4.42" rx="7.51" cy="32.287504" cx="88.772803"/>
+   <ellipse id="svg_8" fill="url(#SVGID_6_)" ry="2.79" rx="4.74" cy="32.287504" cx="88.772803"/>
+   <g id="svg_9" opacity="0.2">
+    <path id="svg_10" fill="#424242" d="m104.572803,6.40091c1.39,0 3.03,0.19 5.03,0.57c3.36,0.64 6.17,2.24 8.34,4.75c0.7,0.81 1.36,1.75 1.94,2.79c2.3,4.06 3.48,9.59 3.41,16.01c-0.32,0.96 -0.68,2 -1.12,3.17c-0.43,1.13 -0.12,2.36 0.68,3.17c-0.74,5.93 -2.39,12.08 -4.82,17.8c-10.13,23.91 -39.44,31.34 -56,33.64c-4.71,0.65 -9.11,0.98 -13.09,0.98c-15.24,0 -25.69,-4.7 -33.89,-15.25c-4.44,-5.71 -6.67,-12.7 -6.27,-19.69c0,-0.05 0.01,-0.11 0.01,-0.17c0.27,-4.19 1.44,-8.23 3.5,-11.99c1.42,-2.59 3.22,-5 5.37,-7.15c7.49,-7.49 25.15,-9.87 39.33,-11.79c7.36,-0.99 14.31,-1.93 19.38,-3.45c11.39,-3.42 16.49,-7.24 20.22,-10.03c3.02,-2.23 4.53,-3.36 7.98,-3.36m0,-3c-9.51,0 -8.6,7.39 -29.05,13.53c-14.86,4.46 -47.79,3.82 -59.97,15.99c-2.41,2.41 -4.37,5.05 -5.88,7.83c-2.3,4.21 -3.58,8.74 -3.86,13.3c0,0.03 0,0.06 0,0.06s0,-0.02 0,-0.06c-0.47,7.63 1.86,15.36 6.89,21.83c8.11,10.43 18.81,16.41 36.26,16.41c4.11,0 8.59,-0.33 13.5,-1.01c25.78,-3.58 49.4,-14.32 58.35,-35.44c3.37,-7.95 5.34,-16.75 5.49,-24.82c-0.03,0.1 -0.06,0.19 -0.09,0.29c-0.38,1.16 -0.79,2.31 -1.21,3.44c0.43,-1.14 0.84,-2.28 1.21,-3.44c0.03,-0.1 0.06,-0.19 0.09,-0.29c0.13,-6.84 -1.06,-13.14 -3.8,-17.98c-0.67,-1.18 -1.43,-2.28 -2.29,-3.27c-2.5,-2.89 -5.81,-4.92 -10.04,-5.73c-2.23,-0.44 -4.05,-0.64 -5.6,-0.64l0,0zm21.72,27.61l0,0l0,0z"/>
+   </g>
+  </g>
+  <g stroke="null" display="none" id="Layer_2">
+   <g stroke="null" id="svg_11" display="inline">
+    <g stroke="null" id="svg_12" opacity="0.6">
+     <circle stroke="#000000" id="svg_13" opacity="0.61" fill="none" stroke-width="0.2625" stroke-miterlimit="10" r="20.116922" cy="68.121242" cx="96"/>
+     <line stroke="#000000" id="svg_14" opacity="0.61" fill="none" stroke-miterlimit="10" y2="114.102778" y1="22.139705" x2="115.5" x1="115.5"/>
+     <line stroke="#000000" id="svg_15" opacity="0.61" fill="none" stroke-miterlimit="10" y2="114.102778" y1="22.139705" x2="75.5" x1="75.5"/>
+     <line stroke="#000000" id="svg_16" opacity="0.61" fill="none" stroke-miterlimit="10" y2="114.102778" y1="22.139705" x2="95.5" x1="95.5"/>
+     <line stroke="#000000" id="svg_17" opacity="0.61" fill="none" stroke-miterlimit="10" y2="68.480472" y1="68.480472" x2="32" x1="160"/>
+     <line stroke="#000000" id="svg_18" opacity="0.61" fill="none" stroke-miterlimit="10" y2="54.111242" y1="54.111242" x2="32" x1="160"/>
+     <line stroke="#000000" id="svg_19" opacity="0.61" fill="none" stroke-miterlimit="10" y2="82.131241" y1="82.131241" x2="32" x1="160"/>
+     <line stroke="#000000" id="svg_20" opacity="0.61" fill="none" stroke-width="0.25" stroke-miterlimit="10" y2="22.139705" y1="114.102778" x2="32" x1="160"/>
+     <line stroke="#000000" id="svg_21" opacity="0.61" fill="none" stroke-width="0.25" stroke-miterlimit="10" y2="22.139705" y1="114.102778" x2="160" x1="32"/>
+     <g stroke="null" id="svg_22" opacity="0.61">
+      <path stroke="null" id="svg_23" d="m96,25.200351c32.94,0 59.74,19.254769 59.74,42.920891s-26.8,42.920891 -59.74,42.920891s-59.74,-19.254769 -59.74,-42.920891s26.8,-42.920891 59.74,-42.920891m0,-0.1868c-33.14,0 -60,19.297876 -60,43.107691s26.86,43.107691 60,43.107691s60,-19.297876 60,-43.107691s-26.86,-43.107691 -60,-43.107691l0,0z"/>
+     </g>
+     <path stroke="#000000" id="svg_24" opacity="0.61" fill="none" stroke-miterlimit="10" d="m147.5,100.071225c0,3.182785 -3.59,5.769246 -8.03,5.769246l-87.94,0c-4.43,0 -8.03,-2.579277 -8.03,-5.769246l0,-63.181505c0,-3.182785 3.59,-5.769246 8.03,-5.769246l87.94,0c4.43,0 8.03,2.579277 8.03,5.769246l0,63.181505z"/>
+     <path stroke="#000000" id="svg_25" opacity="0.61" fill="none" stroke-miterlimit="10" d="m139.5,105.840471c0,3.1756 -3.58,5.747692 -8,5.747692l-72,0c-4.42,0 -8,-2.572092 -8,-5.747692l0,-74.719997c0,-3.1756 3.58,-5.747692 8,-5.747692l72,0c4.42,0 8,2.572092 8,5.747692l0,74.719997z"/>
+     <path stroke="#000000" id="svg_26" opacity="0.61" fill="none" stroke-miterlimit="10" d="m155.5,92.742918c0,4.059308 -4.58,7.349861 -10.23,7.349861l-99.54,0c-5.65,0 -10.23,-3.290554 -10.23,-7.349861l0,-48.524891c0,-4.059308 4.58,-7.349861 10.23,-7.349861l99.54,0c5.65,0 10.23,3.290554 10.23,7.349861l0,48.524891z"/>
+    </g>
+    <g stroke="null" id="svg_27">
+     <g stroke="null" id="svg_28" opacity="0.2">
+      <defs transform="translate(0,-0.42553138732910156) translate(0,-0.42553138732910156) translate(32,-23.74462127685547) translate(-32,166) scale(1,0.7184615135192871) translate(32,-166) " stroke="null">
+       <rect stroke="null" opacity="0.2" x="0" width="128" height="128" id="SVGID_2_"/>
+       <linearGradient stroke="null" y2="0.499942" y1="0.499942" x2="1.000003" x1="0.000049" id="SVGID_1_">
+        <stop stroke="null" stop-color="#B63B3B" offset="0"/>
+        <stop stroke="null" stop-color="#D64449" offset="0.8818"/>
+       </linearGradient>
+       <linearGradient stroke="null" y2="0.499976" y1="0.499976" x2="1" x1="-0.000016" id="SVGID_3_">
+        <stop stroke="null" stop-color="#9E3333" offset="0"/>
+        <stop stroke="null" stop-color="#D64449" offset="0.8818"/>
+       </linearGradient>
+       <linearGradient stroke="null" y2="0.499968" y1="0.499968" x2="1.000012" x1="0.000002" id="SVGID_4_">
+        <stop stroke="null" stop-color="#A83737" offset="0"/>
+        <stop stroke="null" stop-color="#D64449" offset="0.8818"/>
+       </linearGradient>
+       <linearGradient stroke="null" y2="1.002879" y1="0.533016" x2="0.500027" x1="0.500027" id="SVGID_5_">
+        <stop stroke="null" stop-color="#FF9D85" offset="0.000036"/>
+        <stop stroke="null" stop-color="#ECDEC9" offset="0.8818"/>
+       </linearGradient>
+       <radialGradient stroke="null" r="3.8924" gradientUnits="userSpaceOnUse" cy="54.334" cx="86.5585" id="SVGID_6_">
+        <stop stroke="null" stop-color="#F79792" offset="0"/>
+        <stop stroke="null" stop-color="#EE7276" offset="0.8818"/>
+       </radialGradient>
+      </defs>
+      <clipPath transform="translate(0,-0.42553138732910156) translate(0,-0.42553138732910156) translate(32,-23.74462127685547) translate(-32,166) scale(1,0.7184615135192871) translate(32,-166) " stroke="null" id="SVGID_7_">
+       <use x="32" y="-24.595684" stroke="null" id="svg_29" xlink:href="#SVGID_2_"/>
+      </clipPath>
+      <g stroke="null" id="svg_30" clip-path="url(#SVGID_7_)">
+       <g stroke="null" id="svg_31">
+        <line stroke="#000000" id="svg_32" fill="none" stroke-miterlimit="10" y2="-0.851064" y1="137.093547" x2="3.5" x1="3.5"/>
+        <line stroke="#000000" id="svg_33" fill="none" stroke-miterlimit="10" y2="-0.851064" y1="137.093547" x2="7.5" x1="7.5"/>
+        <line stroke="#000000" id="svg_34" fill="none" stroke-miterlimit="10" y2="-0.851064" y1="137.093547" x2="11.5" x1="11.5"/>
+        <line stroke="#000000" id="svg_35" fill="none" stroke-miterlimit="10" y2="-0.851064" y1="137.093547" x2="15.5" x1="15.5"/>
+        <line stroke="#000000" id="svg_36" fill="none" stroke-miterlimit="10" y2="-0.851064" y1="137.093547" x2="19.5" x1="19.5"/>
+        <line stroke="#000000" id="svg_37" fill="none" stroke-miterlimit="10" y2="-0.851064" y1="137.093547" x2="23.5" x1="23.5"/>
+        <line stroke="#000000" id="svg_38" fill="none" stroke-miterlimit="10" y2="-0.851064" y1="137.093547" x2="27.5" x1="27.5"/>
+        <line stroke="#000000" id="svg_39" fill="none" stroke-miterlimit="10" y2="-0.851064" y1="137.093547" x2="31.5" x1="31.5"/>
+        <line stroke="#000000" id="svg_40" fill="none" stroke-miterlimit="10" y2="-0.851064" y1="137.093547" x2="35.5" x1="35.5"/>
+        <line stroke="#000000" id="svg_41" fill="none" stroke-miterlimit="10" y2="-0.851064" y1="137.093547" x2="39.5" x1="39.5"/>
+        <line stroke="#000000" id="svg_42" fill="none" stroke-miterlimit="10" y2="-0.851064" y1="137.093547" x2="43.5" x1="43.5"/>
+        <line stroke="#000000" id="svg_43" fill="none" stroke-miterlimit="10" y2="-0.851064" y1="137.093547" x2="47.5" x1="47.5"/>
+        <line stroke="#000000" id="svg_44" fill="none" stroke-miterlimit="10" y2="-0.851064" y1="137.093547" x2="51.5" x1="51.5"/>
+        <line stroke="#000000" id="svg_45" fill="none" stroke-miterlimit="10" y2="-0.851064" y1="137.093547" x2="55.5" x1="55.5"/>
+        <line stroke="#000000" id="svg_46" fill="none" stroke-miterlimit="10" y2="-0.851064" y1="137.093547" x2="59.5" x1="59.5"/>
+        <line stroke="#000000" id="svg_47" fill="none" stroke-miterlimit="10" y2="-0.851064" y1="137.093547" x2="63.5" x1="63.5"/>
+        <line stroke="#000000" id="svg_48" fill="none" stroke-miterlimit="10" y2="-0.851064" y1="137.093547" x2="67.5" x1="67.5"/>
+        <line stroke="#000000" id="svg_49" fill="none" stroke-miterlimit="10" y2="-0.851064" y1="137.093547" x2="71.5" x1="71.5"/>
+        <line stroke="#000000" id="svg_50" fill="none" stroke-miterlimit="10" y2="-0.851064" y1="137.093547" x2="75.5" x1="75.5"/>
+        <line stroke="#000000" id="svg_51" fill="none" stroke-miterlimit="10" y2="-0.851064" y1="137.093547" x2="79.5" x1="79.5"/>
+        <line stroke="#000000" id="svg_52" fill="none" stroke-miterlimit="10" y2="-0.851064" y1="137.093547" x2="83.5" x1="83.5"/>
+        <line stroke="#000000" id="svg_53" fill="none" stroke-miterlimit="10" y2="-0.851064" y1="137.093547" x2="87.5" x1="87.5"/>
+        <line stroke="#000000" id="svg_54" fill="none" stroke-miterlimit="10" y2="-0.851064" y1="137.093547" x2="91.5" x1="91.5"/>
+        <line stroke="#000000" id="svg_55" fill="none" stroke-miterlimit="10" y2="-0.851064" y1="137.093547" x2="95.5" x1="95.5"/>
+        <line stroke="#000000" id="svg_56" fill="none" stroke-miterlimit="10" y2="-0.851064" y1="137.093547" x2="99.5" x1="99.5"/>
+        <line stroke="#000000" id="svg_57" fill="none" stroke-miterlimit="10" y2="-0.851064" y1="137.093547" x2="103.5" x1="103.5"/>
+        <line stroke="#000000" id="svg_58" fill="none" stroke-miterlimit="10" y2="-0.851064" y1="137.093547" x2="107.5" x1="107.5"/>
+        <line stroke="#000000" id="svg_59" fill="none" stroke-miterlimit="10" y2="-0.851064" y1="137.093547" x2="111.5" x1="111.5"/>
+        <line stroke="#000000" id="svg_60" fill="none" stroke-miterlimit="10" y2="-0.851064" y1="137.093547" x2="115.5" x1="115.5"/>
+        <line stroke="#000000" id="svg_61" fill="none" stroke-miterlimit="10" y2="-0.851064" y1="137.093547" x2="119.5" x1="119.5"/>
+        <line stroke="#000000" id="svg_62" fill="none" stroke-miterlimit="10" y2="-0.851064" y1="137.093547" x2="123.5" x1="123.5"/>
+        <line stroke="#000000" id="svg_63" fill="none" stroke-miterlimit="10" y2="-0.851064" y1="137.093547" x2="127.5" x1="127.5"/>
+        <line stroke="#000000" id="svg_64" fill="none" stroke-miterlimit="10" y2="-0.851064" y1="137.093547" x2="131.5" x1="131.5"/>
+        <line stroke="#000000" id="svg_65" fill="none" stroke-miterlimit="10" y2="-0.851064" y1="137.093547" x2="135.5" x1="135.5"/>
+        <line stroke="#000000" id="svg_66" fill="none" stroke-miterlimit="10" y2="-0.851064" y1="137.093547" x2="139.5" x1="139.5"/>
+        <line stroke="#000000" id="svg_67" fill="none" stroke-miterlimit="10" y2="-0.851064" y1="137.093547" x2="143.5" x1="143.5"/>
+        <line stroke="#000000" id="svg_68" fill="none" stroke-miterlimit="10" y2="-0.851064" y1="137.093547" x2="147.5" x1="147.5"/>
+        <line stroke="#000000" id="svg_69" fill="none" stroke-miterlimit="10" y2="-0.851064" y1="137.093547" x2="151.5" x1="151.5"/>
+        <line stroke="#000000" id="svg_70" fill="none" stroke-miterlimit="10" y2="-0.851064" y1="137.093547" x2="155.5" x1="155.5"/>
+        <line stroke="#000000" id="svg_71" fill="none" stroke-miterlimit="10" y2="-0.851064" y1="137.093547" x2="159.5" x1="159.5"/>
+        <line stroke="#000000" id="svg_72" fill="none" stroke-miterlimit="10" y2="-0.851064" y1="137.093547" x2="163.5" x1="163.5"/>
+        <line stroke="#000000" id="svg_73" fill="none" stroke-miterlimit="10" y2="-0.851064" y1="137.093547" x2="167.5" x1="167.5"/>
+        <line stroke="#000000" id="svg_74" fill="none" stroke-miterlimit="10" y2="3.459705" y1="141.404316" x2="168.5" x1="168.5"/>
+        <line stroke="#000000" id="svg_75" fill="none" stroke-miterlimit="10" y2="-0.851064" y1="137.093547" x2="175.5" x1="175.5"/>
+        <line stroke="#000000" id="svg_76" fill="none" stroke-miterlimit="10" y2="-0.851064" y1="137.093547" x2="179.5" x1="179.5"/>
+        <line stroke="#000000" id="svg_77" fill="none" stroke-miterlimit="10" y2="-0.851064" y1="137.093547" x2="183.5" x1="183.5"/>
+        <line stroke="#000000" id="svg_78" fill="none" stroke-miterlimit="10" y2="-0.851064" y1="137.093547" x2="187.5" x1="187.5"/>
+       </g>
+       <g stroke="null" id="svg_79">
+        <line stroke="#000000" id="svg_80" fill="none" stroke-miterlimit="10" y2="2.382013" y1="2.382013" x2="192" x1="0"/>
+        <line stroke="#000000" id="svg_81" fill="none" stroke-miterlimit="10" y2="5.255859" y1="5.255859" x2="192" x1="0"/>
+        <line stroke="#000000" id="svg_82" fill="none" stroke-miterlimit="10" y2="8.129705" y1="8.129705" x2="192" x1="0"/>
+        <line stroke="#000000" id="svg_83" fill="none" stroke-miterlimit="10" y2="11.003551" y1="11.003551" x2="192" x1="0"/>
+        <line stroke="#000000" id="svg_84" fill="none" stroke-miterlimit="10" y2="13.877397" y1="13.877397" x2="192" x1="0"/>
+        <line stroke="#000000" id="svg_85" fill="none" stroke-miterlimit="10" y2="16.751243" y1="16.751243" x2="192" x1="0"/>
+        <line stroke="#000000" id="svg_86" fill="none" stroke-miterlimit="10" y2="19.625089" y1="19.625089" x2="192" x1="0"/>
+        <line stroke="#000000" id="svg_87" fill="none" stroke-miterlimit="10" y2="22.498935" y1="22.498935" x2="192" x1="0"/>
+        <line stroke="#000000" id="svg_88" fill="none" stroke-miterlimit="10" y2="25.372782" y1="25.372782" x2="192" x1="0"/>
+        <line stroke="#000000" id="svg_89" fill="none" stroke-miterlimit="10" y2="28.246628" y1="28.246628" x2="192" x1="0"/>
+        <line stroke="#000000" id="svg_90" fill="none" stroke-miterlimit="10" y2="31.120474" y1="31.120474" x2="192" x1="0"/>
+        <line stroke="#000000" id="svg_91" fill="none" stroke-miterlimit="10" y2="33.99432" y1="33.99432" x2="192" x1="0"/>
+        <line stroke="#000000" id="svg_92" fill="none" stroke-miterlimit="10" y2="36.868166" y1="36.868166" x2="192" x1="0"/>
+        <line stroke="#000000" id="svg_93" fill="none" stroke-miterlimit="10" y2="39.742012" y1="39.742012" x2="192" x1="0"/>
+        <line stroke="#000000" id="svg_94" fill="none" stroke-miterlimit="10" y2="42.615858" y1="42.615858" x2="192" x1="0"/>
+        <line stroke="#000000" id="svg_95" fill="none" stroke-miterlimit="10" y2="45.489704" y1="45.489704" x2="192" x1="0"/>
+        <line stroke="#000000" id="svg_96" fill="none" stroke-miterlimit="10" y2="48.36355" y1="48.36355" x2="192" x1="0"/>
+        <line stroke="#000000" id="svg_97" fill="none" stroke-miterlimit="10" y2="51.237396" y1="51.237396" x2="192" x1="0"/>
+        <line stroke="#000000" id="svg_98" fill="none" stroke-miterlimit="10" y2="54.111242" y1="54.111242" x2="192" x1="0"/>
+        <line stroke="#000000" id="svg_99" fill="none" stroke-miterlimit="10" y2="56.985088" y1="56.985088" x2="192" x1="0"/>
+        <line stroke="#000000" id="svg_100" fill="none" stroke-miterlimit="10" y2="59.858934" y1="59.858934" x2="192" x1="0"/>
+        <line stroke="#000000" id="svg_101" fill="none" stroke-miterlimit="10" y2="62.73278" y1="62.73278" x2="192" x1="0"/>
+        <line stroke="#000000" id="svg_102" fill="none" stroke-miterlimit="10" y2="65.606626" y1="65.606626" x2="192" x1="0"/>
+        <line stroke="#000000" id="svg_103" fill="none" stroke-miterlimit="10" y2="68.480472" y1="68.480472" x2="192" x1="0"/>
+        <line stroke="#000000" id="svg_104" fill="none" stroke-miterlimit="10" y2="71.354318" y1="71.354318" x2="192" x1="0"/>
+        <line stroke="#000000" id="svg_105" fill="none" stroke-miterlimit="10" y2="74.228164" y1="74.228164" x2="192" x1="0"/>
+        <line stroke="#000000" id="svg_106" fill="none" stroke-miterlimit="10" y2="77.10201" y1="77.10201" x2="192" x1="0"/>
+        <line stroke="#000000" id="svg_107" fill="none" stroke-miterlimit="10" y2="79.975857" y1="79.975857" x2="192" x1="0"/>
+        <line stroke="#000000" id="svg_108" fill="none" stroke-miterlimit="10" y2="82.849703" y1="82.849703" x2="192" x1="0"/>
+        <line stroke="#000000" id="svg_109" fill="none" stroke-miterlimit="10" y2="85.723549" y1="85.723549" x2="192" x1="0"/>
+        <line stroke="#000000" id="svg_110" fill="none" stroke-miterlimit="10" y2="88.597395" y1="88.597395" x2="192" x1="0"/>
+        <line stroke="#000000" id="svg_111" fill="none" stroke-miterlimit="10" y2="91.471241" y1="91.471241" x2="192" x1="0"/>
+        <line stroke="#000000" id="svg_112" fill="none" stroke-miterlimit="10" y2="94.345087" y1="94.345087" x2="192" x1="0"/>
+        <line stroke="#000000" id="svg_113" fill="none" stroke-miterlimit="10" y2="97.218933" y1="97.218933" x2="192" x1="0"/>
+        <line stroke="#000000" id="svg_114" fill="none" stroke-miterlimit="10" y2="100.092779" y1="100.092779" x2="192" x1="0"/>
+        <line stroke="#000000" id="svg_115" fill="none" stroke-miterlimit="10" y2="102.966625" y1="102.966625" x2="192" x1="0"/>
+        <line stroke="#000000" id="svg_116" fill="none" stroke-miterlimit="10" y2="105.840471" y1="105.840471" x2="192" x1="0"/>
+        <line stroke="#000000" id="svg_117" fill="none" stroke-miterlimit="10" y2="108.714317" y1="108.714317" x2="192" x1="0"/>
+        <line stroke="#000000" id="svg_118" fill="none" stroke-miterlimit="10" y2="111.588163" y1="111.588163" x2="192" x1="0"/>
+        <line stroke="#000000" id="svg_119" fill="none" stroke-miterlimit="10" y2="114.462009" y1="114.462009" x2="192" x1="0"/>
+        <line stroke="#000000" id="svg_120" fill="none" stroke-miterlimit="10" y2="117.335855" y1="117.335855" x2="192" x1="0"/>
+        <line stroke="#000000" id="svg_121" fill="none" stroke-miterlimit="10" y2="120.209701" y1="120.209701" x2="192" x1="0"/>
+        <line stroke="#000000" id="svg_122" fill="none" stroke-miterlimit="10" y2="123.083547" y1="123.083547" x2="192" x1="0"/>
+        <line stroke="#000000" id="svg_123" fill="none" stroke-miterlimit="10" y2="125.957393" y1="125.957393" x2="192" x1="0"/>
+        <line stroke="#000000" id="svg_124" fill="none" stroke-miterlimit="10" y2="128.831239" y1="128.831239" x2="192" x1="0"/>
+        <line stroke="#000000" id="svg_125" fill="none" stroke-miterlimit="10" y2="131.705086" y1="131.705086" x2="192" x1="0"/>
+        <line stroke="#000000" id="svg_126" fill="none" stroke-miterlimit="10" y2="134.578932" y1="134.578932" x2="192" x1="0"/>
+       </g>
+       <path stroke="null" id="svg_127" d="m192,-0.851064l0,137.944611l-192,0l0,-137.944611l192,0m0,0l-192,0l0,137.944611l192,0l0,-137.944611l0,0z"/>
+      </g>
+     </g>
+     <g stroke="null" id="svg_128">
+      <rect y="22.139705" stroke="null" id="svg_129" opacity="0.3" fill="#F44336" x="32" width="4" height="91.963074"/>
+      <rect y="22.139705" stroke="null" id="svg_130" opacity="0.3" fill="#F44336" x="156" width="4" height="91.963074"/>
+      <rect stroke="null" id="svg_131" opacity="0.3" fill="#F44336" y="-90" x="27.766177" width="4" transform="matrix(0,0.7184615135192871,-1,0,66,2.190774917602539) " height="120"/>
+      <rect stroke="null" id="svg_132" opacity="0.3" fill="#F44336" y="34" x="27.766177" width="4" transform="matrix(0,0.7184615135192871,-1,0,190,91.28000259399414) " height="120"/>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
